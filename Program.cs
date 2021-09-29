@@ -7,6 +7,16 @@ namespace cse210_tc03
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to our collaborative program!");
+
+            DisplayGreetingNash();
+
+        }
+
+        static void DisplayGreetingNash()
+        {
+            Console.WriteLine("Live long and prosper from Curtis Nash");
+        }   
+
         }
         
         static void DisplayGreetingKennion(){
