@@ -8,12 +8,6 @@ namespace cse210_tc03
         {
             Console.WriteLine("Welcome to our collaborative program!");
         }
-
-        
-        
-        
-        
-        
         
         static void DisplayGreetingKennion(){
             Console.WriteLine("reH ponglu'choH je!");
