@@ -12,6 +12,5 @@ namespace cse210_tc03
         static void DisplayGreetingKennion(){
             Console.WriteLine("reH ponglu'choH je!");
         }
-
     }
 }
